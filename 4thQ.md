@@ -448,7 +448,7 @@
 <p><a id="print-answer" class="print" href="javascript:void(0);"></a></p>
 <br>
 
->修正は [GitHub#issues](https://github.com/ThomasGreen06/kosen-japanese-history-2023/issues) から
+>修正は [GitHub#issues](https://github.com/st22182ti/nihonshi/issues) から
 
 <div style="color:rgba(0,0,0,0.7);font-size:0.8rem;text-align:center;margin-top:5rem;">
     &copy; mt 2024 All rights reserved
