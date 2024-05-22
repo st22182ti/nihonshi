@@ -10,5 +10,5 @@
    `$ source minify.sh hoge.html`
 
 
-[日本史試験対策(WEB)](https://thomasgreen06.github.io/kosen-japanese-history-2023/index.html)
+[日本史試験対策(WEB)](https://st22182ti.github.io/nihonshi/index.html)
   
